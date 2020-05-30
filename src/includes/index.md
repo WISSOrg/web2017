@@ -88,7 +88,7 @@ WISSは、2泊3日の泊り込み形式で、インタラクティブシステ�
   - [動画中継２日目](https://www.youtube.com/watch?v=tTtZ_Pso_Dg)
   - [動画中継３日目](https://www.youtube.com/watch?v=g5GZVoHkflQ)
 - WISSについて
-  - [~~表彰~~](https://www.wiss.org/WISS2017/Awards.html)
+  - [表彰](./award.html)
   - [~~ローカル情報~~](https://www.wiss.org/WISS2017/LocalInfo.html)
   - [~~WISS2017 委員一覧~~](https://www.wiss.org/WISS2017/CommitteeMember.html)
   - [~~過去のWISS~~](https://www.wiss.org/WISS2017/PastWorkshops.html)
