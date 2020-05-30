@@ -26,4 +26,4 @@
 
 - __幸野 朋美（明治大学）__
 
-![](./cover-design.png)
+![](./assets/cover-design.png)

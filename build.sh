@@ -1,2 +1,2 @@
 pug src/index.pug --pretty --out dst
-cp src/cover-design.png dst/
+cp src/cover-design.png dst/cover-design.png
