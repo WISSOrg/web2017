@@ -4,7 +4,7 @@ WISS 2017 website
 
 ## Prerequisite
 
-- yarn
+- npm
 - pug-cli (`npm install pug-cli --global`)
 
 ## Install Dependencies
