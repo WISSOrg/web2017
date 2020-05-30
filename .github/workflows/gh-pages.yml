@@ -9,14 +9,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: borales/actions-yarn@v2.1.0
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
       with:
-        cmd: install
-    - name: install-pug
-      run: yarn global bin pug-cli
-    - uses: borales/actions-yarn@v2.1.0
-      with:
-        cmd: build
+        node-version: 12.x
+    - run: npm install
+    - run: npm install pug-cli --global
+    - run: npm run build
     - uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
