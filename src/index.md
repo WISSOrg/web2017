@@ -1,52 +1,38 @@
-[Login](https://www.wiss.org/WISS2017/.login)
+# WISS 2017
 
-##### Contents
+第25回インタラクティブシステムとソフトウェアに関するワークショップ / 25th Workshop on Interactive Systems and Software (WISS 2017)
 
-WISS2017
-========
+__WISS 2017 は終了しました。WISS 2018 (2018年9月末予定）でお会いしましょう。__
 
-*WISS2017 は終了しました。*
+---
 
-*WISS2018 (2018年9月末予定）でお会いしましょう。*
+__主催：__ [日本ソフトウェア科学会](http://www.jssst.or.jp/) [インタラクティブシステムとソフトウェア研究会](http://www.wiss.org/)
 
-[■](https://www.wiss.org/WISS2017/FrontPage.html#bac1c27b7913dfb2ec9f5d363ff36846)第25回インタラクティブシステムとソフトウェアに関するワークショップ
---------------------------------------------------------------------------------------------------------------------
+__日時：__ 2017年12月6日（水） - 8日（金）
 
-### 25th Workshop on Interactive Systems and Software (WISS 2017)
-
-主催
-
-[日本ソフトウェア科学会](http://www.jssst.or.jp/) [インタラクティブシステムとソフトウェア研究会](http://www.wiss.org/)
-
-日時
-
-2017年12月6日（水） - 8日（金）
-
-場所
-
-[八ヶ岳ロイヤルホテル](http://www.daiwaresort.jp/yatsugadake/)（山梨県北杜市）
+__場所：__ [八ヶ岳ロイヤルホテル](http://www.daiwaresort.jp/yatsugadake/)（山梨県北杜市）
 
 WISSは、2泊3日の泊り込み形式で、インタラクティブシステムにおける未来を切り拓くような新しいアイディア・技術を議論するワークショップです。この分野において国内でもっともアクティブな学術会議のひとつであり、例年160名以上の参加者が朝から深夜まで活発で意義深い情報交換をおこなっています。さまざまなバックグラウンドを持った方々からの積極的な論文投稿および参加をお待ちしております。
 
 第25回となるWISS 2017は[八ヶ岳ロイヤルホテル](http://www.daiwaresort.jp/yatsugadake/)（山梨県北杜市）で開催します。
 
-[■](https://www.wiss.org/WISS2017/FrontPage.html#1b0ca0d7b65db1456f84d126cd2a87b3)スケジュール
-----------------------------------------------------------------------------------------
+## スケジュール
 
+| 日時 | 内容 |
+| --- | --- |
 | 2017年3月2日（木） | Webサイト公開（このページ） |
 | 2017年7月3日（月） | 登壇発表投稿サイトオープン |
-| 2017年9月3日（日） | *登壇発表論文投稿〆切（9/4 00:00 (JST) に投稿サイト閉鎖）* |
+| 2017年9月3日（日） | 登壇発表論文投稿〆切（9/4 00:00 (JST) に投稿サイト閉鎖） |
 | 2017年9月4日（月） | デモ・ポスター発表（論文のWEB掲載あり）投稿サイトオープン（先着順） |
-| 2017年9月10日（日） | *表紙デザイン投稿〆切（9/4 00:00 (JST) に投稿サイト閉鎖）* |
+| 2017年9月10日（日） | 表紙デザイン投稿〆切（9/4 00:00 (JST) に投稿サイト閉鎖） |
 | 2017年10月8日（日） | 登壇発表採択結果通知（採録コメント含む） |
-| 2017年10月22日（日） | *デモ・ポスター発表（論文のWEB掲載あり）投稿〆切（10/23 00:00 (JST) に投稿サイト閉鎖）* |
-| 2017年10月23日（月） | デモ・ポスター発表（論文のWEB掲載なし）*締め切りました* |
+| 2017年10月22日（日） | デモ・ポスター発表（論文のWEB掲載あり）投稿〆切（10/23 00:00 (JST) に投稿サイト閉鎖） |
+| 2017年10月23日（月） | デモ・ポスター発表（論文のWEB掲載なし） |
 | 2017年10月末 | 参加登録開始 |
 | 2017年10月末 | プログラム公開（※「アブストラクト公開延期」を事前指定されたもの以外は、アブストラクトと採録コメントも公開されます） |
 | 2017年12月6日（水） | 採録論文（採録コメント及び査読コメント含む）公開 |
 
-[■](https://www.wiss.org/WISS2017/FrontPage.html#02c756d534d4c09f90457021a36553d9)協賛学会（五十音順）
---------------------------------------------------------------------------------------------
+## 協賛学会（五十音順）
 
 -   [画像電子学会ビジュアルコンピューティング研究会](http://www2.teu.ac.jp/clab/vc/)
 -   [芸術科学会](http://art-science.org/)
@@ -65,8 +51,7 @@ WISSは、2泊3日の泊り込み形式で、インタラクティブシステ�
 
 （2017年10月6日現在。協賛が決まれば随時掲載します）
 
-[■](https://www.wiss.org/WISS2017/FrontPage.html#f3e4b2d28fadad061ee53450be6cb499)企業スポンサー（会社名五十音順：募集締め切りました）
-------------------------------------------------------------------------------------------------------------
+## 企業スポンサー（会社名五十音順：募集締め切りました）
 
 -   [株式会社サイバーエージェント](https://www.cyberagent.co.jp/)
 -   [チームラボ株式会社](http://team-lab.com/)
@@ -77,80 +62,48 @@ WISSは、2泊3日の泊り込み形式で、インタラクティブシステ�
 -   [ヤフー株式会社](https://about.yahoo.co.jp/)
 -   [ユニティ・テクノロジーズ・ジャパン合同会社](https://unity3d.com/jp/)
 -   [株式会社LIFULL](http://lifull.com/)
--   [楽天株式会社　楽天技術研究所](http://rit.rakuten.co.jp/)
+-   [楽天株式会社 楽天技術研究所](http://rit.rakuten.co.jp/)
 
-![Sponsorship.files/ca.png](https://www.wiss.org/WISS2017/Sponsorship.files/ca.png)![Sponsorship.files/spacer.png](https://www.wiss.org/WISS2017/Sponsorship.files/spacer.png)![Sponsorship.files/tlab.png](https://www.wiss.org/WISS2017/Sponsorship.files/tlab.png)![Sponsorship.files/spacer.png](https://www.wiss.org/WISS2017/Sponsorship.files/spacer.png)![Sponsorship.files/isid.png](https://www.wiss.org/WISS2017/Sponsorship.files/isid.png)\
-![Sponsorship.files/ms.png](https://www.wiss.org/WISS2017/Sponsorship.files/ms.png)![Sponsorship.files/spacer.png](https://www.wiss.org/WISS2017/Sponsorship.files/spacer.png)![Sponsorship.files/bns.png](https://www.wiss.org/WISS2017/Sponsorship.files/bns.png)![Sponsorship.files/spacer.png](https://www.wiss.org/WISS2017/Sponsorship.files/spacer.png)![Sponsorship.files/me_n.png](https://www.wiss.org/WISS2017/Sponsorship.files/me_n.png)\
-![Sponsorship.files/yahoo.png](https://www.wiss.org/WISS2017/Sponsorship.files/yahoo.png)![Sponsorship.files/spacer.png](https://www.wiss.org/WISS2017/Sponsorship.files/spacer.png)![Sponsorship.files/1-unity.png](https://www.wiss.org/WISS2017/Sponsorship.files/1-unity.png)![Sponsorship.files/spacer.png](https://www.wiss.org/WISS2017/Sponsorship.files/spacer.png)![Sponsorship.files/life.png](https://www.wiss.org/WISS2017/Sponsorship.files/life.png)\
-![Sponsorship.files/spacer.png](https://www.wiss.org/WISS2017/Sponsorship.files/spacer.png)![Sponsorship.files/1-rit.png](https://www.wiss.org/WISS2017/Sponsorship.files/1-rit.png)
+---
 
-Last modified: *2017-12-08*Attached files total: 12MB
+#### メニュー
 
-[WISS2017](https://www.wiss.org/WISS2017/FrontPage.html)
---------------------------------------------------------
+- 発表募集
+  - [論文募集](https://www.wiss.org/WISS2017/CFP.html)
+    - [査読方針](https://www.wiss.org/WISS2017/review_policy.html)
+    - [査読フォーム](https://www.wiss.org/WISS2017/review_form.html)
+  - [WISS Challenge 募集](https://www.wiss.org/WISS2017/WISS_Challenge.html)
+  - [表紙デザイン募集](https://www.wiss.org/WISS2017/DesignCompetition.html)
+- 参加＆協力募集
+  - [参加募集](https://www.wiss.org/WISS2017/Registration.html)
+    - [名札システム](https://www.wiss.org/WISS2017/Namecard.html)
+  - [企業スポンサー募集](https://www.wiss.org/WISS2017/Sponsorship.html)
+  - [学生ボランティア](https://www.wiss.org/WISS2017/StudentVolunteer.html)
+- プログラム
+  - [プログラム](https://www.wiss.org/WISS2017/Program.html)
+  - [デモ](https://www.wiss.org/WISS2017/Demo.html)
+  - [プロシーディングス](http://www.wiss.org/WISS2017Proceedings/)
+- 動画中継
+  - [動画中継](https://www.wiss.org/WISS2017/Streaming.html)
+- WISSについて
+  - [表彰](https://www.wiss.org/WISS2017/Awards.html)
+  - [ローカル情報](https://www.wiss.org/WISS2017/LocalInfo.html)
+  - [WISS2017 委員一覧](https://www.wiss.org/WISS2017/CommitteeMember.html)
+  - [過去のWISS](https://www.wiss.org/WISS2017/PastWorkshops.html)
 
-### 発表募集
-
--   [論文募集](https://www.wiss.org/WISS2017/CFP.html)
-
--   [査読方針](https://www.wiss.org/WISS2017/review_policy.html)
-
--   [査読フォーム](https://www.wiss.org/WISS2017/review_form.html)
-
--   [WISS Challenge 募集](https://www.wiss.org/WISS2017/WISS_Challenge.html)
--   [表紙デザイン募集](https://www.wiss.org/WISS2017/DesignCompetition.html)
-
-### 参加＆協力募集
-
--   [参加募集](https://www.wiss.org/WISS2017/Registration.html)
-
--   [名札システム](https://www.wiss.org/WISS2017/Namecard.html)
-
--   [企業スポンサー募集](https://www.wiss.org/WISS2017/Sponsorship.html)
--   [学生ボランティア](https://www.wiss.org/WISS2017/StudentVolunteer.html)
-
-### プログラム
-
--   [プログラム](https://www.wiss.org/WISS2017/Program.html)
-
--   [デモ](https://www.wiss.org/WISS2017/Demo.html)
-
--   [プロシーディングス](http://www.wiss.org/WISS2017Proceedings/)
-
-### 動画中継
-
--   [動画中継](https://www.wiss.org/WISS2017/Streaming.html)
-
-### WISSについて
-
--   [表彰](https://www.wiss.org/WISS2017/Awards.html)
--   [ローカル情報](https://www.wiss.org/WISS2017/LocalInfo.html)
--   [WISS2017 委員一覧](https://www.wiss.org/WISS2017/CommitteeMember.html)
--   [過去のWISS](https://www.wiss.org/WISS2017/PastWorkshops.html)
-
-Twitter
--------
+#### Twitter
 
 公式ハッシュタグ: [#wiss2017](https://twitter.com/search?q=%23wiss2017)
 
-更新情報
-----
+#### 更新情報
 
-### 2017年12月6日（水）
+- 2017年12月6日（水）
+  - [プロシーディングス](http://www.wiss.org/WISS2017Proceedings/)を公開しました。
+- 2017年11月14日（火）
+  - [デモ](https://www.wiss.org/WISS2017/Demo.html)を公開しました。
+- 2017年10月30日（月）
+  - [プログラム](https://www.wiss.org/WISS2017/Program.html)を公開しました。
 
--   [プロシーディングス](http://www.wiss.org/WISS2017Proceedings/)を公開しました。
+#### 連絡先
 
-### 2017年11月14日（火）
-
--   [デモ](https://www.wiss.org/WISS2017/Demo.html)を公開しました。
-
-### 2017年10月30日（月）
-
--   [プログラム](https://www.wiss.org/WISS2017/Program.html)を公開しました。
-
-連絡先
----
-
--   *2017 <at> wiss.org*
-
-powered by [qwikWeb](http://qwik.jp/)
+2017 <at> wiss.org
