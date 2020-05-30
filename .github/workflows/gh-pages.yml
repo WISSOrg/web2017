@@ -12,6 +12,8 @@ jobs:
     - uses: borales/actions-yarn@v2.1.0
       with:
         cmd: install
+    - name: install-pug
+      run: yarn global add pug-cli
     - uses: borales/actions-yarn@v2.1.0
       with:
         cmd: build
