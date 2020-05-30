@@ -69,29 +69,29 @@ WISSは、2泊3日の泊り込み形式で、インタラクティブシステ�
 #### メニュー
 
 - 発表募集
-  - [~論文募集~](https://www.wiss.org/WISS2017/CFP.html)
-    - [~査読方針~](https://www.wiss.org/WISS2017/review_policy.html)
-    - [~査読フォーム~](https://www.wiss.org/WISS2017/review_form.html)
-  - [~WISS Challenge 募集~](https://www.wiss.org/WISS2017/WISS_Challenge.html)
-  - [~表紙デザイン募集~](https://www.wiss.org/WISS2017/DesignCompetition.html)
+  - [~~論文募集~~](https://www.wiss.org/WISS2017/CFP.html)
+    - [~~査読方針~~](https://www.wiss.org/WISS2017/review_policy.html)
+    - [~~査読フォーム~~](https://www.wiss.org/WISS2017/review_form.html)
+  - [~~WISS Challenge 募集~~](https://www.wiss.org/WISS2017/WISS_Challenge.html)
+  - [~~表紙デザイン募集~~](https://www.wiss.org/WISS2017/DesignCompetition.html)
 - 参加＆協力募集
-  - [~参加募集~](https://www.wiss.org/WISS2017/Registration.html)
-    - [~名札システム~](https://www.wiss.org/WISS2017/Namecard.html)
-  - [~企業スポンサー募集~](https://www.wiss.org/WISS2017/Sponsorship.html)
-  - [~学生ボランティア~](https://www.wiss.org/WISS2017/StudentVolunteer.html)
+  - [~~参加募集~~](https://www.wiss.org/WISS2017/Registration.html)
+    - [~~名札システム~~](https://www.wiss.org/WISS2017/Namecard.html)
+  - [~~企業スポンサー募集~~](https://www.wiss.org/WISS2017/Sponsorship.html)
+  - [~~学生ボランティア~~](https://www.wiss.org/WISS2017/StudentVolunteer.html)
 - プログラム
-  - [~プログラム~](https://www.wiss.org/WISS2017/Program.html)
-  - [~デモ~](https://www.wiss.org/WISS2017/Demo.html)
+  - [~~プログラム~~](https://www.wiss.org/WISS2017/Program.html)
+  - [~~デモ~~](https://www.wiss.org/WISS2017/Demo.html)
   - [プロシーディングス](http://www.wiss.org/WISS2017Proceedings/)
 - 動画中継
   - [動画中継１日目](https://www.youtube.com/watch?v=qo3IxAdIi4o)
   - [動画中継２日目](https://www.youtube.com/watch?v=tTtZ_Pso_Dg)
   - [動画中継３日目](https://www.youtube.com/watch?v=g5GZVoHkflQ)
 - WISSについて
-  - [~表彰~](https://www.wiss.org/WISS2017/Awards.html)
-  - [~ローカル情報](https://www.wiss.org/WISS2017/LocalInfo.html)
-  - [~WISS2017 委員一覧~](https://www.wiss.org/WISS2017/CommitteeMember.html)
-  - [~過去のWISS~](https://www.wiss.org/WISS2017/PastWorkshops.html)
+  - [~~表彰~~](https://www.wiss.org/WISS2017/Awards.html)
+  - [~~ローカル情報~~](https://www.wiss.org/WISS2017/LocalInfo.html)
+  - [~~WISS2017 委員一覧~~](https://www.wiss.org/WISS2017/CommitteeMember.html)
+  - [~~過去のWISS~~](https://www.wiss.org/WISS2017/PastWorkshops.html)
 
 #### Twitter
 
@@ -102,9 +102,9 @@ WISSは、2泊3日の泊り込み形式で、インタラクティブシステ�
 - 2017年12月6日（水）
   - [プロシーディングス](http://www.wiss.org/WISS2017Proceedings/)を公開しました。
 - 2017年11月14日（火）
-  - [~デモ~](https://www.wiss.org/WISS2017/Demo.html)を公開しました。
+  - [~~デモ~~](https://www.wiss.org/WISS2017/Demo.html)を公開しました。
 - 2017年10月30日（月）
-  - [~プログラム~](https://www.wiss.org/WISS2017/Program.html)を公開しました。
+  - [~~プログラム~~](https://www.wiss.org/WISS2017/Program.html)を公開しました。
 
 #### 連絡先
 
