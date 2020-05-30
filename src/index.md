@@ -84,7 +84,9 @@ WISSは、2泊3日の泊り込み形式で、インタラクティブシステ�
   - [デモ](https://www.wiss.org/WISS2017/Demo.html)
   - [プロシーディングス](http://www.wiss.org/WISS2017Proceedings/)
 - 動画中継
-  - [動画中継](https://www.wiss.org/WISS2017/Streaming.html)
+  - [動画中継１日目](https://www.youtube.com/watch?v=qo3IxAdIi4o)
+  - [動画中継２日目](https://www.youtube.com/watch?v=tTtZ_Pso_Dg)
+  - [動画中継３日目](https://www.youtube.com/watch?v=g5GZVoHkflQ)
 - WISSについて
   - [表彰](https://www.wiss.org/WISS2017/Awards.html)
   - [ローカル情報](https://www.wiss.org/WISS2017/LocalInfo.html)
