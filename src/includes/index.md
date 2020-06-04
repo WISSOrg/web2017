@@ -80,8 +80,7 @@ WISSは、2泊3日の泊り込み形式で、インタラクティブシステ�
   - [~~企業スポンサー募集~~](https://www.wiss.org/WISS2017/Sponsorship.html)
   - [~~学生ボランティア~~](https://www.wiss.org/WISS2017/StudentVolunteer.html)
 - プログラム
-  - [~~プログラム~~](https://www.wiss.org/WISS2017/Program.html)
-  - [~~デモ~~](https://www.wiss.org/WISS2017/Demo.html)
+  - [プログラム](./program.html)
   - [プロシーディングス](http://www.wiss.org/WISS2017Proceedings/)
 - 動画中継
   - [動画中継１日目](https://www.youtube.com/watch?v=qo3IxAdIi4o)
@@ -104,7 +103,7 @@ WISSは、2泊3日の泊り込み形式で、インタラクティブシステ�
 - 2017年11月14日（火）
   - [~~デモ~~](https://www.wiss.org/WISS2017/Demo.html)を公開しました。
 - 2017年10月30日（月）
-  - [~~プログラム~~](https://www.wiss.org/WISS2017/Program.html)を公開しました。
+  - [プログラム](./program.html)を公開しました。
 
 #### 連絡先
 
